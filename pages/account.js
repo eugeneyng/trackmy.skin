@@ -3,9 +3,7 @@ import * as Paper from 'react-native-paper';
 import { SignInUp } from '../pages';
 
 function Account() {
-  return (
-    <SignInUp/>
-  );
+  return <SignInUp />;
 }
 
 export default Account;
